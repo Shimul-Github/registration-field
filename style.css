@@ -1,0 +1,109 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: brown;
+}
+.registraiton-field{
+    background-color: whitesmoke;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    
+}
+.registraiton-field button{
+    margin: 10px;
+    width: 95%;
+    padding: 10px;
+}
+.registraiton-field h1{
+    padding: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.container{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    padding: 10px;
+    margin: 2px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.fname input{
+    padding: 5px;
+    width: 210px;
+}
+.fname h3{
+    margin-bottom:8px;
+    margin-top: 0px;
+}
+.uname input{
+    padding: 5px;
+    width: 210px;
+}
+.uname h3{
+    margin-bottom:5px;
+    margin-top: 0px;
+}
+.container1{
+    display: flex;
+    gap: 30PX;
+    align-items: flex-end;
+    padding: 10px;
+}
+.email input{
+    padding: 5px;
+    width: 210px;
+}
+.email h3{
+    margin-bottom:8px;
+    margin-top: 0px;
+}
+.pnumber input{
+    padding: 5px;
+    width: 210px;
+}
+.pnumber h3{
+    margin-bottom:5px;
+    margin-top: 0px;
+}
+.container2{
+    display: flex;
+    gap: 30PX;
+    align-items: flex-end;
+    padding: 5px;
+}
+.password input{
+    padding: 5px;
+    width: 210px;
+}
+.password h3{
+    margin-bottom:8px;
+    margin-top: 0px;
+}
+.cpassword input{
+    padding: 5px;
+    width: 210px;
+    margin-bottom: 0px;
+}
+.cpassword h3{
+    margin-bottom:5px;
+    margin-top: 0px;
+}
+.gender{
+    padding: 10px;
+}
+.gender h3{
+    margin: 0px;
+    padding-bottom: 15px;
+}
+.gender ul{
+    display: flex;
+    gap: 90px;
+    padding-left:15px;
+    margin-top: 10px;
+}
+
+
